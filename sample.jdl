@@ -1,0 +1,8 @@
+application {
+  config {
+    baseName jhipster
+    applicationType monolith
+    serverPort 4242
+    buildTool maven
+  }
+}
